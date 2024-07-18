@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   Hi, I am a junior front-end developer 🤚🏻
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redonearth&theme=radical&count_private=true&exclude_repo=RedScanner,jpa-connection,dongbin_android_tutorials,helloSpring,Treview,simple-project,dailycomma,Yedam&layout=compact&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redonearth&theme=radical&count_private=true&exclude_repo=blog-comments,hospitalrun-frontend&layout=compact&langs_count=8"/>
   
   ---
   
