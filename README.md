@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache ECharts-AA344D?style=flat&logo=apacheecharts&logoColor=white" />
 
   <br>
 
@@ -46,6 +47,9 @@ Here are some ideas to get you started:
   <br>
 
   <img src="https://img.shields.io/badge/Vite-9135FF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=flat&logo=i18next&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat&logo=docusaurus&logoColor=white" />
   
   ## Studying ✏️
   
@@ -62,9 +66,17 @@ Here are some ideas to get you started:
   
   ## Using tools 🛠
   
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
- 
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTPie-73DC8C?style=flat&logo=httpie&logoColor=white" />
+
+  ## Beyond Code 🏖
+  
+  <img src="https://img.shields.io/badge/MLB-041E42?style=flat&logo=mlb&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=flat&logo=youtubemusic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=netflix&logoColor=white" />
+  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=flat&logo=mcdonalds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" />
 </div>
